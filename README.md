@@ -1,7 +1,7 @@
 
 # 💫 Sobre mim:
 
-Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2021 com e Kotlin. Começei a programar no curso FullStack B7Web e posteriormente migrei para o Android com Kotlin no curso do Kaique Ocanha - Android Definitivo.
+Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2021 com Kotlin. Começei a programar no curso FullStack B7Web e posteriormente migrei para o Android com Kotlin no curso do Kaique Ocanha - Android Definitivo.
 
 Tenho uma paixão muito grande por desenvolver aplicativos android e bastante gosto por estudar e aprender coisas novas.
 
