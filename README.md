@@ -5,7 +5,7 @@ Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2021 c
 
 Tenho uma paixão muito grande por desenvolver aplicativos android e bastante gosto por estudar e aprender coisas novas.
 
-**Atualmente:** Meu cenário atual é estudante em busca da tão sonhada primeira vaga.
+**Atualmente:** Meu cenário atual é de Desenvolvedor Jr em busca da tão sonhada primeira vaga.
 
 **Estudando:** Estou estudando Kotlin - Android Definitivo e Cursando na Anhanguera - Análise e Desenvolvimento de Sistemas.
 
