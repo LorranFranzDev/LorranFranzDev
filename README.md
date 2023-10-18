@@ -3,11 +3,11 @@
 
 Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2021 com Kotlin. Começei a programar no curso FullStack B7Web e posteriormente migrei para o Android com Kotlin no curso do Kaique Ocanha - Android Definitivo.
 
-Tenho uma paixão muito grande por desenvolver aplicativos android e bastante gosto por estudar e aprender coisas novas.
+Tenho uma paixão muito grande por desenvolver aplicativos android e gosto bastante de estudar e aprender coisas novas.
 
-**Atualmente:** Meu cenário atual é de Desenvolvedor Android e Freelancer Web Developer.
+**Atualmente:** Meu cenário atual é de Desenvolvedor Android na empresa <a href="https://www.linkedin.com/company/sualiste/">Factory Of Idea<a/>.
 
-**Estudando:** Estou estudando Kotlin - Android Definitivo e Cursando na Anhanguera - Análise e Desenvolvimento de Sistemas.
+**Estudando:** Como já tenho um conhecimento bom em Kotlion estou estudando Jetpack Compose e também Cursando na Anhanguera - Análise e Desenvolvimento de Sistemas.
 
 
 # 📧 Contato:
