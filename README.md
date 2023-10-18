@@ -5,7 +5,7 @@ Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2021 c
 
 Tenho uma paixão muito grande por desenvolver aplicativos android e gosto bastante de estudar e aprender coisas novas.
 
-**Atualmente:** Meu cenário atual é de Desenvolvedor Android na empresa <a href="https://www.linkedin.com/company/sualiste/">Factory Of Idea<a/>.
+**Atualmente:** Meu cenário atual é de Desenvolvedor Android na empresa <a href="https://www.linkedin.com/company/sualiste/" target="_blank">Factory Of Idea<a/>.
 
 **Estudando:** Como já tenho um conhecimento bom em Kotlion estou estudando Jetpack Compose e também Cursando na Anhanguera - Análise e Desenvolvimento de Sistemas.
 
