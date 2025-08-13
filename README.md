@@ -5,7 +5,7 @@ Desenvolvedor Android apaixonado por tecnologia! Desenvolvendo apps desde 2022 c
 
 Tenho uma paixão muito grande por desenvolver aplicativos android e gosto bastante de estudar e aprender coisas novas.
 
-**Atualmente:** Sou Desenvolvedor Android na empresa <a href="https://www.linkedin.com/company/sualiste/" target="_blank">Factory Of Idea<a/>.
+**Atualmente:** Estou em busca de uma nova oportunidade. Trabalhei como Desenvolvedor Android na empresa <a href="https://www.linkedin.com/company/sualiste/" target="_blank">Factory Of Idea<a/> por aproximadamente 8 meses.
 
 
 
