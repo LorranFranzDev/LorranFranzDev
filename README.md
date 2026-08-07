@@ -7,7 +7,8 @@ Tenho uma paixão muito grande por desenvolver aplicativos android e gosto basta
 
 **Atualmente:** Estou em busca de uma nova oportunidade. Trabalhei como Desenvolvedor Android na empresa <a href="https://www.linkedin.com/company/sualiste/" target="_blank">Factory Of Idea<a/> por aproximadamente 8 meses.
 
-
+**Estudando:** Desde 2019 venho acompanhando o mercado financeiro, day trade e etc, porém quando encontrei operações automatizadas foi algo que me chamou muita atenção, desde então meu foco tem sido em QuantFinance, operar com base em matemática, cálculos, tudo automatizado. Essa área tem sido meu estudo e projeto diário.
+Não tenho nenhum projeto público a respeito, mas estou desenvolvendo para projeto e uso pessoal.
 
 # 📧 Contato:
 
